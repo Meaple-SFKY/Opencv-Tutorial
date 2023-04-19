@@ -1,0 +1,27 @@
+{
+  "version": "5.2.0.post4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          106.9770642201835,
+          96.22477064220183
+        ],
+        [
+          236.33486238532112,
+          222.83027522935782
+        ]
+      ],
+      "group_id": 1,
+      "description": "water",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Snipaste.png",
+  "imageData": null,
+  "imageHeight": 453,
+  "imageWidth": 569
+}
